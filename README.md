@@ -15,4 +15,4 @@ The purpose of this analysis was to create data visualization maps showing earth
 - Javascript
 
 ## Results
-![alt_text](https://raw.githubusercontent.com/bweirich/Mapping_Earthquakes/main/Earthquake_Challenge/Capture.PNG)
+![alt_text](https://raw.githubusercontent.com/bweirich/Mapping_Earthquakes/main/Capture.PNG)
